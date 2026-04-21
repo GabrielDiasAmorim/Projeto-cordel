@@ -7,4 +7,4 @@ Projeto desenvolvido durante meus estudos de HTML e CSS.
 - CSS3
 
 ## 📸 Preview
-https://gabrieldiasamorim.github.io/Projeto-cordel/target="_blank"
+https://gabrieldiasamorim.github.io/Projeto-cordel/
