@@ -8,3 +8,9 @@ Projeto desenvolvido durante meus estudos de HTML e CSS.
 
 ## 📸 Preview
 https://gabrieldiasamorim.github.io/Projeto-cordel/
+
+
+## 📚 Aprendizados
+- Efeito Parallax
+- Responsividade
+- Uso de fontes externas
